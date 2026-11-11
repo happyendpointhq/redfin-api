@@ -1,0 +1,79 @@
+{
+  "success": true,
+  "data": {
+    "rows": [
+      {
+        "id": "2_16163",
+        "name": "Seattle",
+        "subName": "Seattle, WA, USA",
+        "type": "city",
+        "regionId": 16163,
+        "regionType": 6,
+        "url": "https://www.redfin.com/city/16163/WA/Seattle",
+        "active": true,
+        "searchVolume": 133202,
+        "marketIds": [
+          999,
+          80,
+          81
+        ],
+        "countryCode": "US"
+      },
+      {
+        "id": "6_3040",
+        "name": "West Seattle",
+        "subName": "Seattle, WA, USA",
+        "type": "neighborhood",
+        "regionId": 3040,
+        "regionType": 1,
+        "url": "https://www.redfin.com/neighborhood/3040/WA/Seattle/West-Seattle",
+        "active": true,
+        "searchVolume": 26805,
+        "marketIds": [
+          999,
+          80,
+          81
+        ],
+        "countryCode": "US"
+      },
+      {
+        "id": "28_196660444",
+        "name": "Seattle House",
+        "subName": "2230 8th Ave, Seattle, WA, USA",
+        "type": "apartment",
+        "propertyId": "196660444",
+        "url": "https://www.redfin.com/WA/Seattle/Seattle-House/apartment/196660444",
+        "address": {
+          "street": "2230 8th Ave",
+          "city": "Seattle",
+          "state": "WA",
+          "zip": "98121"
+        },
+        "active": true,
+        "marketIds": [
+          999,
+          80,
+          81
+        ],
+        "countryCode": "US"
+      }
+    ],
+    "exactMatch": {
+      "id": "2_16163",
+      "name": "Seattle",
+      "subName": "Seattle, WA, USA",
+      "type": "city",
+      "regionId": 16163,
+      "regionType": 6,
+      "url": "https://www.redfin.com/city/16163/WA/Seattle",
+      "active": true,
+      "searchVolume": 133202,
+      "marketIds": [
+        999,
+        80,
+        81
+      ],
+      "countryCode": "US"
+    }
+  }
+}

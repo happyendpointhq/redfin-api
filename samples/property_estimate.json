@@ -1,0 +1,17 @@
+{
+  "success": true,
+  "data": {
+    "propertyId": "30972007",
+    "estimate": 441652.55,
+    "listingPrice": null,
+    "lastSoldPrice": 389000,
+    "lastSoldDate": 1778223600000,
+    "isVisible": true,
+    "isVisibilityRestricted": false,
+    "isHidden": false,
+    "historicalGraphEnabled": true,
+    "comparables": {
+      "count": 6
+    }
+  }
+}

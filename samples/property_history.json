@@ -1,0 +1,48 @@
+{
+  "success": true,
+  "data": {
+    "priceHistory": [
+      {
+        "date": 1791442800000,
+        "event": "Listed",
+        "eventType": 1,
+        "mlsStatus": "Active",
+        "price": 715000,
+        "source": "NWMLS as Distributed by MLS Grid",
+        "sourceId": "2592343"
+      },
+      {
+        "date": 1680591600000,
+        "event": "Sold (MLS)",
+        "eventType": 2,
+        "mlsStatus": "Closed",
+        "price": 699990,
+        "source": "NWMLS as Distributed by MLS Grid",
+        "sourceId": "2015609"
+      },
+      {
+        "date": 1680591600000,
+        "event": "Sold (Public Records)",
+        "eventType": 2,
+        "mlsStatus": null,
+        "price": 699990,
+        "source": "Public Records",
+        "sourceId": null
+      }
+    ],
+    "taxHistory": [
+      {
+        "year": 2026,
+        "landValue": 300000,
+        "improvementValue": 450000,
+        "taxesDue": 7699.15
+      },
+      {
+        "year": 2025,
+        "landValue": 300000,
+        "improvementValue": 450000,
+        "taxesDue": 7324.2
+      }
+    ]
+  }
+}

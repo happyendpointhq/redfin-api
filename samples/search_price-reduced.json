@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "data": {
+    "homes": [
+      {
+        "propertyId": "30996808",
+        "listingId": "223588540",
+        "url": "[removed]",
+        "propertyType": "condo",
+        "status": "active",
+        "statusRaw": 1,
+        "price": 525000,
+        "priceType": "list",
+        "priceTypeRaw": 1,
+        "beds": 2,
+        "baths": 2.5,
+        "sqft": 1619,
+        "daysOnMarket": 1,
+        "badges": [
+          "Open House",
+          "3D Walkthrough"
+        ],
+        "address": {
+          "full": "Kinney Ave",
+          "city": "Austin",
+          "state": "TX",
+          "zip": "78704",
+          "latitude": 30.256,
+          "longitude": -97.766
+        },
+        "photoCount": 33,
+        "photoUrl": "https://ssl.cdn-redfin.com/system_files/media/1241929_JPG/item_64.jpg"
+      }
+    ],
+    "numHomes": 350,
+    "numEarlyAccess": 0
+  }
+}

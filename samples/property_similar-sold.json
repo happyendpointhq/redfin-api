@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": {
+    "homes": [
+      {
+        "propertyId": "169742789",
+        "listingId": "213636640",
+        "mlsId": "8018102",
+        "url": "[removed]",
+        "propertyType": "condo",
+        "propertyTypeRaw": 3,
+        "status": "sold",
+        "statusRaw": 4,
+        "soldDate": 1784876400,
+        "price": 349000,
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 1624,
+        "lotSize": 2421,
+        "yearBuilt": 2019,
+        "hoaDues": 383,
+        "pricePerSqft": 215,
+        "daysOnMarket": 68,
+        "isRedfin": false,
+        "address": {
+          "full": "E Riverside Dr",
+          "city": "Austin",
+          "state": "TX",
+          "zip": "78741",
+          "latitude": 30.223,
+          "longitude": -97.698
+        }
+      }
+    ],
+    "count": 16
+  }
+}

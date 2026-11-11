@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "data": {
+    "resolvedLocation": {
+      "name": "Seattle",
+      "subName": "Seattle, WA, USA",
+      "regionId": 16163,
+      "regionType": "city",
+      "url": "https://www.redfin.com/city/16163/WA/Seattle",
+      "alternatives": [
+        {
+          "name": "West Seattle",
+          "subName": "Seattle, WA, USA",
+          "regionId": 3040,
+          "regionType": "neighborhood",
+          "url": "https://www.redfin.com/neighborhood/3040/WA/Seattle/West-Seattle"
+        }
+      ]
+    },
+    "homes": [
+      {
+        "propertyId": "12318639",
+        "listingId": "224399525",
+        "url": "[removed]",
+        "propertyType": "townhouse",
+        "status": "active",
+        "statusRaw": 1,
+        "price": 950000,
+        "priceType": "list",
+        "priceTypeRaw": 1,
+        "beds": 3,
+        "baths": 2.25,
+        "sqft": 1670,
+        "lastSoldDate": "2016-09-13T07:00:00Z",
+        "address": {
+          "full": "Franklin Ave E",
+          "city": "Seattle",
+          "state": "WA",
+          "zip": "98102",
+          "latitude": 47.649,
+          "longitude": -122.321
+        },
+        "photoCount": 26,
+        "photoUrl": "https://ssl.cdn-redfin.com/system_files/media/1247763_JPG/item_63.jpg"
+      }
+    ],
+    "numHomes": 347,
+    "numEarlyAccess": 3
+  }
+}

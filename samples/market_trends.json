@@ -1,0 +1,44 @@
+{
+  "success": true,
+  "data": {
+    "regionId": 16163,
+    "regionType": "city",
+    "regionName": "Seattle, WA",
+    "url": "https://www.redfin.com/city/16163/WA/Seattle",
+    "propertyType": "all",
+    "section": "prices",
+    "metrics": [
+      {
+        "label": "Median Sale Price",
+        "value": 854593,
+        "displayValue": "$854,593",
+        "yoy": "-2.7%",
+        "series": [
+          {
+            "date": "2026-09-30",
+            "value": 854593,
+            "yoy": "-2.7%"
+          },
+          {
+            "date": "2026-08-31",
+            "value": 875000,
+            "yoy": "-2.8%"
+          }
+        ]
+      },
+      {
+        "label": "Median Days on Market",
+        "value": 19.018727355,
+        "displayValue": "19",
+        "yoy": "+0",
+        "series": [
+          {
+            "date": "2026-09-30",
+            "value": 19.018727355,
+            "yoy": "+0"
+          }
+        ]
+      }
+    ]
+  }
+}
